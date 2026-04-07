@@ -1,12 +1,22 @@
 # image size:
 It’s preferred to be 16:9. The ideal pixel for a featured image should be 1200x675 (300dpi).
-
 # TiA logo: 
 [https://public.flourish.studio/uploads/654906/b7663fa8-c232-432e-838d-274566bd6992.png](https://public.flourish.studio/uploads/654906/b7663fa8-c232-432e-838d-274566bd6992.png)
-
-# Main font:
-Lato
-
+# Main text:
+Font family: Lato
+Font style: regular
+# Title-Subtitle-Source
+## Title: 
+Font-family: Montserrat
+Font size: 1.4 (per main text)
+Font style: bold
+## Subtitle: 
+Font-family: Montserrat
+Font size: 1.1 (per main text)
+Font style: regular
+## Source:
+Font-family: Lato
+Font-size: 0.7 (per main text)
 # color-pallete
 | Hex       | Description          |
 | --------- | -------------------- |
@@ -22,3 +32,5 @@ Lato
 | `#9c9551` | Olive / Dark Yellow  |
 | `#78b8cf` | Light Blue           |
 | `#ff6e00` | Orange               |
+# background-color
+none
